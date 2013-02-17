@@ -1,0 +1,14 @@
+{
+    "name": "jbrinksmeier/doctrine-command",
+    "type": "library",
+    "description": "extra commands for doctrine",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": { "DoctrineCommand\\": "lib/" }
+    },    
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.x-dev"
+        }
+    }
+}
