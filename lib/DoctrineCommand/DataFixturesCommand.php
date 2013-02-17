@@ -1,5 +1,5 @@
 <?php
-namespace \DoctrineCommand;
+namespace DoctrineCommand;
 
 use Symfony\Component\Console\Input\InputArgument,
     Symfony\Component\Console\Input\InputOption,
